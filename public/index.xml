@@ -5,6 +5,18 @@
         <link>https://arskiy.tech/</link>
         <description>Recent content on alice&#39;s ramblings</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://arskiy.tech/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 04 Sep 2022 22:19:54 -0300</lastBuildDate><atom:link href="https://arskiy.tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Testmath</title>
+        <link>https://arskiy.tech/posts/testmath/</link>
+        <pubDate>Sun, 04 Sep 2022 22:19:54 -0300</pubDate>
+        
+        <guid>https://arskiy.tech/posts/testmath/</guid>
+        <description>&lt;h1 id=&#34;oie&#34;&gt;oie&lt;/h1&gt;
+&lt;p&gt;$$\int_{10}^{13} 2xdx$$&lt;/p&gt;
+&lt;p&gt;inline test $x \equiv 7 (mod 8)$ hihi&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>

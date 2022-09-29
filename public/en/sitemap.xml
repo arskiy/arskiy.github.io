@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://arskiy.tech/</loc>
+    <lastmod>2022-09-04T22:19:54-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -13,6 +14,12 @@
                 hreflang="en"
                 href="https://arskiy.tech/"
                 />
+  </url><url>
+    <loc>https://arskiy.tech/posts/</loc>
+    <lastmod>2022-09-04T22:19:54-03:00</lastmod>
+  </url><url>
+    <loc>https://arskiy.tech/posts/testmath/</loc>
+    <lastmod>2022-09-04T22:19:54-03:00</lastmod>
   </url><url>
     <loc>https://arskiy.tech/categories/</loc>
     <xhtml:link

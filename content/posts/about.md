@@ -16,6 +16,8 @@ summary: "test aaaaaaa"
 
 <script src="/mikumengo.js"></script>
 
+[original miku](https://sketchfab.com/3d-models/argentina-hatsune-miku-f9690d84cde14860959368106dab79ee) (licensed under cc-3.0 yada yada yada)
+
 ## would you rather a higher resolution alice or a 60 fps alice??
 
 this is my psychotic ramblings dump, welcome!!

@@ -3,6 +3,7 @@ title: "about me"
 date: 2022-09-28T22:44:38-03:00
 draft: false
 description: "self-descriptive title really"
+summary: "test aaaaaaa"
 ---
 
 # hi!!! ^-^

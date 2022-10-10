@@ -9,10 +9,12 @@ languages:
         languageName: English
         title: alice's ramblings
         weight: 1
+        contentDir: "content/"
     pt-br:
         languageName: Português
         title: blog da alice
         weight: 2
+        contentDir: "content.pt-br/"
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -37,6 +39,8 @@ params:
         - posts
     featuredImageField: image
     rssFullContent: true
+    customcss:
+      - "styles.css"
     favicon:
 
     footer:
@@ -48,7 +52,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        subtitle: hi!!! ^^
+        subtitle: hi!
         avatar:
             enabled: true
             local: true

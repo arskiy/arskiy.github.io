@@ -5,7 +5,23 @@ draft: true
 slug: "example-post"
 ---
 
+
 # oie
+
+{{% note %}}
+AAA
+{{% /note %}}
+
+{{% notegreen %}}
+AAA
+{{% /notegreen %}}
+
+{{% notered %}}
+AAA
+{{% /notered %}}
+
+AAAAAA
+
 $$\int_{10}^{13} 2xdx$$
 
 inline test $x \equiv 7 \mod (8)$ hihi

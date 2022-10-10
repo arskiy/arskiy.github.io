@@ -3,10 +3,9 @@ title: "about me"
 date: 2022-09-28T22:44:38-03:00
 draft: false
 description: "self-descriptive title really"
-summary: "test aaaaaaa"
 ---
 
-# hi!!! ^-^
+# hi!!! （\*＾-＾\*）
 
 <script src="https://unpkg.com/three@0.144.0/build/three.min.js"></script>
 <script src="https://unpkg.com/three@0.144.0/examples/js/controls/OrbitControls.js"></script>
@@ -16,16 +15,12 @@ summary: "test aaaaaaa"
 
 <script src="/mikumengo.js"></script>
 
-[original miku](https://sketchfab.com/3d-models/argentina-hatsune-miku-f9690d84cde14860959368106dab79ee) (licensed under cc-3.0 yada yada yada)
+[original miku](https://sketchfab.com/3d-models/argentina-hatsune-miku-f9690d84cde14860959368106dab79ee) (licensed under cc-3.0 and all that jazz)
 
-## would you rather a higher resolution alice or a 60 fps alice??
+books i'm reading (not really an avid reader but i'd like to put this here, they are in no particular order):
 
-this is my psychotic ramblings dump, welcome!!
-
-books i'm reading (not really an avid reader but i'd like to do this, they are in no particular order):
-
--   Advanced Modern Algebra (dont be scared by its name)
--   [There is no Antimemetics Division](https://scp-wiki.wikidot.com/antimemetics-division-hub) (fucking awesome)
+-   Advanced Modern Algebra (don't be scared by its name)
+-   [There is no Antimemetics Division](https://scp-wiki.wikidot.com/antimemetics-division-hub) (amazing!)
 -   JoJo Steel Ball Run
 -   Dune
 -   An Introduction to Mathematical Cryptography

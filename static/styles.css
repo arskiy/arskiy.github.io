@@ -1,0 +1,61 @@
+.note {
+
+  border-left-width: 4px;
+  border-left-style: solid;
+  position: relative;
+  border-color: #0594CB;
+
+  display: block;
+}
+.admonition-content {
+    display: block;
+    margin: 0px;
+    padding: .125em 1em;
+    /*margin-left: 1em;*/
+    margin-top: 2em;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    /*font-size: .9375em;*/
+    background-color: rgba(5, 148, 203, .3);
+  }
+
+
+.note-green {
+  border-left-width: 4px;
+  border-left-style: solid;
+  position: relative;
+  border-color: rgba(40, 167, 69, 1);
+
+  display: block;
+}
+.admonition-content-green {
+    display: block;
+    margin: 0px;
+    padding: .125em 1em;
+    /*margin-left: 1em;*/
+    margin-top: 2em;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    /*font-size: .9375em;*/
+    background-color: rgba(40, 167, 69, .3);
+  }
+
+.note-red {
+  border-left-width: 4px;
+  border-left-style: solid;
+  position: relative;
+  border-color: rgba(249, 59, 85, 1);
+
+  display: block;
+}
+.admonition-content-red {
+    display: block;
+    margin: 0px;
+    padding: .125em 1em;
+    /*margin-left: 1em;*/
+    margin-top: 2em;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    /*font-size: .9375em;*/
+    background-color: rgba(249, 59, 85, .3);
+  }

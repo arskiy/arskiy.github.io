@@ -15,3 +15,7 @@ draft: false
 <script src="/mikumengo.js"></script>
 
 [original miku](https://sketchfab.com/3d-models/argentina-hatsune-miku-f9690d84cde14860959368106dab79ee) (licensed under cc-3.0 and all that jazz)
+
+{{% notered %}}
+test
+{{% /notered %}}

@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on alice's ramblings</title><link>https://arskiy.tech/posts/</link><description>Recent content in Posts on alice's ramblings</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 22:44:38 -0300</lastBuildDate><atom:link href="https://arskiy.tech/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>about me</title><link>https://arskiy.tech/posts/about/</link><pubDate>Wed, 28 Sep 2022 22:44:38 -0300</pubDate><guid>https://arskiy.tech/posts/about/</guid><description>&lt;h1 id="hi--">hi!!! ^-^&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on alice's ramblings</title><link>https://arskiy.tech/posts/</link><description>Recent content in Posts on alice's ramblings</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 22:44:38 -0300</lastBuildDate><atom:link href="https://arskiy.tech/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>about me</title><link>https://arskiy.tech/posts/en/about/</link><pubDate>Wed, 28 Sep 2022 22:44:38 -0300</pubDate><guid>https://arskiy.tech/posts/en/about/</guid><description>&lt;h1 id="hi--">hi!!! （*＾-＾*）&lt;/h1>
 &lt;script src="https://unpkg.com/three@0.144.0/build/three.min.js">&lt;/script>
 &lt;script src="https://unpkg.com/three@0.144.0/examples/js/controls/OrbitControls.js">&lt;/script>
 &lt;script src="https://unpkg.com/three@0.144.0/examples/js/loaders/GLTFLoader.js">&lt;/script>
 &lt;p>&lt;canvas id="myCanvas" style="width: 100%; height: 100%; background-size: cover; background-image: url(/'mikufundo.jpg'); background-color: none; align: center; padding-left: 0; padding-right: 0;margin-left: auto; margin-right: auto; display: block;">&lt;/canvas>&lt;/p>
 &lt;script src="https://arskiy.tech/mikumengo.js">&lt;/script>
 &lt;p>&lt;a class="link" href="https://sketchfab.com/3d-models/argentina-hatsune-miku-f9690d84cde14860959368106dab79ee" target="_blank" rel="noopener"
->original miku&lt;/a> (licensed under cc-3.0 yada yada yada)&lt;/p>
-&lt;h2 id="would-you-rather-a-higher-resolution-alice-or-a-60-fps-alice">would you rather a higher resolution alice or a 60 fps alice??&lt;/h2>
-&lt;p>this is my psychotic ramblings dump, welcome!!&lt;/p>
-&lt;p>books i&amp;rsquo;m reading (not really an avid reader but i&amp;rsquo;d like to do this, they are in no particular order):&lt;/p>
+>original miku&lt;/a> (licensed under cc-3.0 and all that jazz)&lt;/p>
+&lt;p>books i&amp;rsquo;m reading (not really an avid reader but i&amp;rsquo;d like to put this here, they are in no particular order):&lt;/p>
 &lt;ul>
-&lt;li>Advanced Modern Algebra (dont be scared by its name)&lt;/li>
+&lt;li>Advanced Modern Algebra (don&amp;rsquo;t be scared by its name)&lt;/li>
 &lt;li>&lt;a class="link" href="https://scp-wiki.wikidot.com/antimemetics-division-hub" target="_blank" rel="noopener"
->There is no Antimemetics Division&lt;/a> (fucking awesome)&lt;/li>
+>There is no Antimemetics Division&lt;/a> (amazing!)&lt;/li>
 &lt;li>JoJo Steel Ball Run&lt;/li>
 &lt;li>Dune&lt;/li>
 &lt;li>An Introduction to Mathematical Cryptography&lt;/li>
